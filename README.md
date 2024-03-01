@@ -36,4 +36,4 @@ Certifique-se de ter as seguintes ferramentas instaladas e configuradas em seu a
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas relatando problemas, sugestões ou melhorias. Você também pode enviar solicitações de pull para contribuir com código para este projeto.
 
 ## Autor
-[Seu Nome]
+@LeoPedroza98
